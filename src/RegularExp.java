@@ -1,6 +1,5 @@
-public class RegularExp
-
-
-
-{
+public class RegularExp{
+    public static void main(String[] args) {
+        System.out.println("Manpreet");
+    }
 }
